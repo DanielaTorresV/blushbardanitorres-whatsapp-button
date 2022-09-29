@@ -1,7 +1,3 @@
-import React from "react";
+import WhatsappButton from './components/WhatsappButton'
 
-const WhatsappButton = () => {
-  return <h1>Aquí irá mi Botón de WhatsApp!!</h1>
-}
-
-export default WhatsappButton;
+export default WhatsappButton
