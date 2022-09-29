@@ -1,6 +1,5 @@
 {
   "whatsapp-button": {
-    "component": "whatsapp-button",
-    "composition": "children"
+    "component": "WhatsappButton"
   }
 }
