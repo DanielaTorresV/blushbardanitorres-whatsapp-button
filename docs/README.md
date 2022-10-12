@@ -1,4 +1,4 @@
-### WhatsApp Button
+# WhatsApp Button
 
 This custom component displays a whatsApp button to redirect the client to whatsapp web and to talk with someone in the store.
 
